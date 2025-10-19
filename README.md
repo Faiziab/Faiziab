@@ -162,20 +162,16 @@ me.say_hi()
 <table>
 <tr>
 <td align="center" width="50%">
-
-### 🎓 MSc in Data Science
-**Christ University, Bengaluru**  
-📅 2022 - 2024  
+🎓 MSc in Data Science
+Christ University, Bengaluru
+📅 2022 - 2024
 ⭐ CGPA: 8.1/10
-
 </td>
 <td align="center" width="50%">
-
-### 💻 Bachelor of Computer Applications
-**Amity University, Lucknow**  
-📅 2019 - 2022  
+💻 Bachelor of Computer Applications
+Amity University, Lucknow
+📅 2019 - 2022
 ⭐ CGPA: 8.26/10
-
 </td>
 </tr>
 </table>
