@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm **Faiziab Khan**
 
-### 🤖 AI Engineer | 📊 Data Scientist | 🧠 ML Specialist
+### 🚀 Making AI Accessible | 📊 Transforming Data | 🌍 Building the Future
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;Deep+Learning+Enthusiast;Building+Intelligent+Systems;Transforming+Data+into+Insights" alt="Typing SVG" />
 
