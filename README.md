@@ -1,175 +1,91 @@
-# 👋 Hi there, I'm Faiziab Khan
+# Hi, I'm Faiziab Khan 👋
 
-**💻 AI/ML Engineer | 🧠 Generative AI & Deep Learning Specialist | 🌏 Based in Ajman, UAE**
+**AI Engineer | Data Scientist | Machine Learning Specialist**  
+📍 Ajman, UAE | 🔍 Actively seeking opportunities in AI Engineering, Data Science & Analytics
 
----
-
-## 🌟 About Me
-
-I'm a passionate **AI/ML Engineer** specializing in **Generative AI**, **Natural Language Processing**, and **Deep Learning**. With a Master's in Data Science and hands-on experience building production-ready AI systems, I love transforming complex problems into intelligent, scalable solutions.
-
-My work focuses on pushing the boundaries of what's possible with:
-- 🤖 **Generative AI** (RAG, LLM Fine-Tuning, Prompt Engineering, Agentic AI)
-- 🧠 **Deep Learning** (Transformers, CNNs, RNNs)
-- 💬 **Natural Language Processing** (BERT, Sentiment Analysis, Text Generation)
-- 👁️ **Computer Vision** (Image Captioning, Object Detection)
-- 🚀 **MLOps & Deployment** (Streamlit, FastAPI, Docker, Kubernetes)
-
-I believe in building AI that's not just powerful, but **practical**, **accessible**, and **impactful**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/faiziab-k-1a3a26121/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat&logo=google-chrome&logoColor=white)](https://faiziab.github.io/Faiziab_Portfolio/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Profile-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/FaiziK)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:faiziabkhan1@gmail.com)
 
 ---
 
-## 🔭 Current Focus
+## 🚀 About Me
 
-- 🚀 Building **Retrieval-Augmented Generation (RAG)** systems for enterprise applications
-- 🎯 Exploring **Agentic AI** and multi-agent frameworks
-- ⚡ Optimizing **LLM inference** for low-latency production environments
-- 🧪 Experimenting with **model quantization** and efficient fine-tuning techniques
-- 📚 Contributing to open-source AI/ML projects
+I'm a passionate AI Engineer with an MSc in Data Science and hands-on experience building intelligent systems. My expertise spans **Generative AI**, **Deep Learning**, and **NLP**, with a focus on deploying production-ready AI solutions. I love transforming complex problems into elegant, scalable applications that deliver real-world impact.
+
+**What drives me:** Continuous learning, building innovative AI products, and pushing the boundaries of what's possible with machine learning.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Arsenal
 
-### 💻 Languages & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)
-
-### 🧠 AI & ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🧰 Dev & Deployment Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🧮 Data Science Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+**AI & ML:** PyTorch · TensorFlow · Transformers · LangChain · Hugging Face · RAG · LLM Fine-Tuning  
+**Languages:** Python · SQL  
+**Data Science:** Pandas · NumPy · Scikit-learn · NLTK  
+**Deployment:** FastAPI · Streamlit · Docker · Kubernetes · AWS · GCP  
+**Vector DBs:** Pinecone · FAISS  
 
 ---
 
 ## 💼 Experience
 
-### 🧩 Generative AI Intern — Open Weaver, Bengaluru
-**📅 May 2023 – June 2023**
-- Built **4 interactive AI applications** using the Kandi toolkit
-- Integrated **OpenAI's Whisper** and **DALL-E** models to create a voice-controlled image generator
-- Gained hands-on experience with multimodal AI systems and API integration
+**Generative AI Intern** | Open Weaver, Bengaluru  
+*May 2023 – June 2023*
+- Developed 4 interactive AI applications using the Kandi toolkit
+- Integrated OpenAI's Whisper and DALL-E for voice-controlled image generation
+- Delivered end-to-end AI solutions from concept to deployment
 
 ---
 
-## 📂 Featured Projects
+## 🎯 Featured Projects
 
-### 🔹 [EmoBot: Real-Time Emotion Detection](link-to-demo)
-A BERT-based transformer chatbot that detects emotions from text in real-time with 92% accuracy.
-- ✅ Trained on custom tweet dataset with **7 emotion classes**
-- ✅ Optimized with **L2 regularization** and **dropout**, reducing validation loss by **54%**
-- ✅ Deployed on **Hugging Face** with **<50ms response time**
+### [EmoBot: Real-Time Emotion Detection](https://github.com/Faiziab/EmoBot)
+BERT-based transformer achieving **92% accuracy** across 7 emotions. Optimized with L2 regularization, reducing validation loss by 54%. Deployed as a real-time chatbot (<50ms response) on Hugging Face.  
+`BERT` `Transformers` `NLP` `Streamlit` `HuggingFace`
 
-**Tech Stack:** `PyTorch` · `BERT` · `Transformers` · `Streamlit` · `HuggingFace`
+### [Research Chatbot](https://github.com/Faiziab/Research_Chatbot)
+RAG pipeline with TinyLlama-1.1B and FAISS vector DB, cutting retrieval time by **95%**. GPU-optimized with FP16 precision for 40% faster inference.  
+`RAG` `LLM` `FAISS` `GPU Optimization` `Streamlit`
 
----
+### [Visualizing the Unseen](https://github.com/Faiziab/Image_Captioning)
+Image captioning model combining ResNet-152 encoder with Transformer decoder. Improved caption quality by **15%** using beam search. Real-time inference in <50ms.  
+`Computer Vision` `PyTorch` `ResNet` `Transformers` `Flickr8k`
 
-### 🔹 [Research Chatbot](link-to-demo)
-A Retrieval-Augmented Generation (RAG) pipeline for extracting insights from complex research documents.
-- ✅ Built with **TinyLlama-1.1B** and **FAISS** vector database
-- ✅ Reduced information retrieval time by **>95%**
-- ✅ Accelerated inference by **40%** using GPU optimization and **FP16 half-precision**
-
-**Tech Stack:** `LangChain` · `TinyLlama` · `FAISS` · `Streamlit` · `GPU Optimization`
+### [ARC: Sentient AI Game](https://github.com/Faiziab/ARC-AI)
+Narrative game powered by 4B-parameter LLM with **66% memory reduction** via 8-bit quantization. Deployed on consumer hardware through custom prompt engineering.  
+`LLM` `Quantization` `Game Development` `Prompt Engineering`
 
 ---
 
-### 🔹 [Visualizing the Unseen](link-to-demo)
-An image captioning system using a custom encoder-decoder architecture with ResNet-152 and Transformer.
-- ✅ Trained on **Flickr8k dataset** with **beam search** for improved caption quality
-- ✅ Increased caption fluency by **15%** over greedy search
-- ✅ Real-time caption generation in **<50ms** via Streamlit web app
+## 📊 GitHub Stats
 
-**Tech Stack:** `PyTorch` · `ResNet-152` · `Transformers` · `Computer Vision` · `Streamlit`
-
----
-
-### 🔹 ARC: Sentient AI Historical Repository Game
-A sentiment-driven narrative game powered by a 4B-parameter LLM.
-- ✅ Achieved **66% memory reduction** using **8-bit quantization**
-- ✅ Custom **prompt engineering framework** for consumer hardware deployment
-- ✅ Dynamic storytelling based on player sentiment analysis
-
-**Tech Stack:** `LLM` · `Quantization` · `Prompt Engineering` · `NLP`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faiziab&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faiziab&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🎓 Education
 
-**🎓 Master of Science in Data Science**  
-Christ University, Yeshwantpur Campus | 2022 - 2024  
-**CGPA:** 8.1/10
-
-**🎓 Bachelor of Computer Applications**  
-Amity University, Lucknow Campus | 2019 - 2022  
-**CGPA:** 8.26/10
+**MSc in Data Science** | Christ University, Bengaluru (2022-2024) · CGPA: 8.1/10  
+**BCA** | Amity University, Lucknow (2019-2022) · CGPA: 8.26/10
 
 ---
 
-## 📊 GitHub Analytics
+## 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:faiziabkhan1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-- 🎮 I built a sentiment-driven narrative game with a 4B-parameter LLM
-- 🚀 I love optimizing models to run on consumer hardware
-- 💡 I'm always exploring the latest in Generative AI and LLM research
-- 🌍 Based in UAE, open to remote opportunities worldwide
-- 📚 Motto: **"Build AI that empowers, not just impresses."**
+- Advanced RAG architectures and multi-agent AI systems
+- MLOps best practices and efficient model deployment
+- Cutting-edge LLM applications in real-world scenarios
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <i>💡 Open to collaborations on AI/ML projects | Let's build something amazing together!</i>
 </p>
 
 <p align="center">
-  ⭐️ <b>Thanks for visiting my profile!</b> If you like my work, consider starring my repositories 🌟
+  ⭐ If you find my work interesting, feel free to star my repositories!
 </p>
