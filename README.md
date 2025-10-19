@@ -122,7 +122,7 @@ me.say_hi()
 ---
 
 ### 🖼️ [Visualizing the Unseen](https://github.com/Faiziab/Image_Captioning)
-<img align="right" width="100" src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"/>
+<img align="right" width="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjR6eTExcHB3eDRtM2M1c3Y0NG11MzBvYmR1bjBkdDB5d3RqaXhnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhN0xSQ11fSS1La/giphy.gif"/>
 
 🔹 ResNet-152 encoder + Transformer decoder architecture  
 🔹 **15% improvement** in caption quality with beam search  
